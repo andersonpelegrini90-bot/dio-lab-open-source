@@ -1,7 +1,7 @@
 
-# Olá, eu sou o Rodrigo 👋
+# Olá, eu sou o Anderson 👋
 
-Sou estudante de **análise de dados** e **programação**, focado em aprender SQL, Python, Git/GitHub e ferramentas como Excel e Power BI.[web:165][web:167]  
+Sou estudante de **análise de dados** e **programação**, focado em aprender SQL, Python, Git/GitHub e ferramentas como Excel e Power BI.
 Atualmente participo do bootcamp **Klabin - Excel e Power BI Dashboards 2026** na DIO.[web:165]
 
 ## Sobre mim
